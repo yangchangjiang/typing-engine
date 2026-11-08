@@ -1,0 +1,16 @@
+{
+  "id": "jcuken", "name": "ЙЦУКЕН",
+  "rows": [
+    ["Ё","1","2","3","4","5","6","7","8","9","0","-","="],
+    ["Й","Ц","У","К","Е","Н","Г","Ш","Щ","З","Х","Ъ"],
+    ["Ф","Ы","В","А","П","Р","О","Л","Д","Ж","Э"],
+    ["Я","Ч","С","М","И","Т","Ь","Б","Ю","."]
+  ],
+  "bottom": [{ "key": " ", "label": "space", "finger": "thumb" }],
+  "fingers": {
+    "Ё":"l-pinky","1":"l-pinky","2":"l-ring","3":"l-mid","4":"l-index","5":"l-index","6":"r-index","7":"r-index","8":"r-mid","9":"r-ring","0":"r-pinky","-":"r-pinky","=":"r-pinky",
+    "Й":"l-pinky","Ц":"l-ring","У":"l-mid","К":"l-index","Е":"l-index","Н":"r-index","Г":"r-index","Ш":"r-mid","Щ":"r-ring","З":"r-pinky","Х":"r-pinky","Ъ":"r-pinky",
+    "Ф":"l-pinky","Ы":"l-ring","В":"l-mid","А":"l-index","П":"l-index","Р":"r-index","О":"r-index","Л":"r-mid","Д":"r-ring","Ж":"r-ring","Э":"r-pinky",
+    "Я":"l-pinky","Ч":"l-ring","С":"l-mid","М":"l-index","И":"l-index","Т":"r-index","Ь":"r-index","Б":"r-mid","Ю":"r-ring",".":"r-pinky"
+  }
+}

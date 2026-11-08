@@ -1,0 +1,16 @@
+{
+  "id": "qwertz", "name": "QWERTZ",
+  "rows": [
+    ["^","1","2","3","4","5","6","7","8","9","0","ß","´"],
+    ["Q","W","E","R","T","Z","U","I","O","P","Ü","+"],
+    ["A","S","D","F","G","H","J","K","L","Ö","Ä","#"],
+    ["Y","X","C","V","B","N","M",",",".","-"]
+  ],
+  "bottom": [{ "key": " ", "label": "space", "finger": "thumb" }],
+  "fingers": {
+    "^":"l-pinky","1":"l-pinky","2":"l-ring","3":"l-mid","4":"l-index","5":"l-index","6":"r-index","7":"r-index","8":"r-mid","9":"r-ring","0":"r-pinky","ß":"r-pinky","´":"r-pinky",
+    "Q":"l-pinky","W":"l-ring","E":"l-mid","R":"l-index","T":"l-index","Z":"r-index","U":"r-index","I":"r-mid","O":"r-ring","P":"r-pinky","Ü":"r-pinky","+":"r-pinky",
+    "A":"l-pinky","S":"l-ring","D":"l-mid","F":"l-index","G":"l-index","H":"r-index","J":"r-index","K":"r-mid","L":"r-ring","Ö":"r-ring","Ä":"r-pinky","#":"r-pinky",
+    "Y":"l-pinky","X":"l-ring","C":"l-mid","V":"l-index","B":"l-index","N":"r-index","M":"r-index",",":"r-mid",".":"r-ring","-":"r-pinky"
+  }
+}

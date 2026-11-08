@@ -1,0 +1,16 @@
+{
+  "id": "azerty", "name": "AZERTY",
+  "rows": [
+    ["²","&","é","\"","'","(","-","è","_","ç","à",")","="],
+    ["A","Z","E","R","T","Y","U","I","O","P","^","$"],
+    ["Q","S","D","F","G","H","J","K","L","M","ù","*"],
+    ["W","X","C","V","B","N",",",";",":","!"]
+  ],
+  "bottom": [{ "key": " ", "label": "space", "finger": "thumb" }],
+  "fingers": {
+    "²":"l-pinky","&":"l-pinky","é":"l-ring","\"":"l-ring","'":"l-ring","(":"l-index","-":"l-index","è":"l-index","_":"l-index","ç":"l-index","à":"r-index",")":"r-ring","=":"r-pinky",
+    "A":"l-pinky","Z":"l-ring","E":"l-mid","R":"l-index","T":"l-index","Y":"r-index","U":"r-index","I":"r-mid","O":"r-ring","P":"r-pinky","^":"r-pinky","$":"r-pinky",
+    "Q":"l-pinky","S":"l-ring","D":"l-mid","F":"l-index","G":"l-index","H":"r-index","J":"r-index","K":"r-mid","L":"r-ring","M":"r-ring","ù":"r-pinky","*":"r-pinky",
+    "W":"l-pinky","X":"l-ring","C":"l-mid","V":"l-index","B":"l-index","N":"r-index",",":"r-mid",";":"r-ring",":":"r-ring","!":"r-pinky"
+  }
+}
